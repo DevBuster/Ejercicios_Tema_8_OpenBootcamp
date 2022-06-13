@@ -1,4 +1,4 @@
-# Ejercicios_Tema_8
+# Ejercicios_Tema_8_OpenBootcamp
 
 Para practicar la encapsulación:
 
